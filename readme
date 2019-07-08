@@ -1,0 +1,11 @@
+PG_BACKUP
+-----------
+
+Created:  19 Jun 2018 
+Last Up:   8 Jul 2019 
+
+Creates a Vacuumed Backup of the Prod Database
+Gzips and Sends it to Remote (Docean)
+
+For Odoo9
+
