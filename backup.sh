@@ -7,8 +7,12 @@
 # Gzips and Sends it to Remote (Docean)
 #
 
-logfile="/home/gibil/jx_data/pg.log"
-dir="/home/gibil/jx_data/local/"
+#logfile="/home/gibil/jx_data/pg.log"
+logfile="/root/pg_backup/pg.log"
+
+#dir="/home/gibil/jx_data/local/"
+dir="/root/pg_backup/local/"
+
 database="Odoo9-min"
 dateinfo=`date '+%Y-%m-%d %H:%M:%S'`
 timeslot=`date '+%Y_%m_%d_%H_%M'`
